@@ -5,7 +5,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/xianyu110/awesome-openclaw-tutorial?style=social)](https://github.com/xianyu110/awesome-openclaw-tutorial)
 [![GitHub forks](https://img.shields.io/github/forks/xianyu110/awesome-openclaw-tutorial?style=social)](https://github.com/xianyu110/awesome-openclaw-tutorial)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v1.0-green.svg)](https://github.com/xianyu110/awesome-openclaw-tutorial)
 [![Status](https://img.shields.io/badge/status-完成-success.svg)](PROJECT-SUMMARY.md)
 
@@ -664,7 +664,28 @@ curl -fsSL https://openclaw.ai/install.sh | bash
 
 ## 📄 许可证
 
-本项目采用 [MIT License](LICENSE)
+本项目采用 [GPL-3.0 License](LICENSE)
+
+### ⚠️ 重要声明：禁止倒卖
+
+本项目是开源教程，遵循GPL-3.0许可证，任何人都可以自由使用、学习和分享。但是：
+
+- ❌ **严禁倒卖**：禁止将本教程打包后进行商业售卖
+- ❌ **严禁闭源商用**：任何基于本项目的衍生作品必须同样开源
+- ✅ **允许学习**：欢迎个人学习和使用
+- ✅ **允许分享**：欢迎分享给更多需要的人
+- ✅ **允许修改**：可以修改并分享，但必须保持开源
+
+如果你发现有人倒卖本教程，请通过以下方式举报：
+- 提交 [GitHub Issue](https://github.com/xianyu110/awesome-openclaw-tutorial/issues)
+- 联系作者：[@xianyu110](https://github.com/xianyu110)
+
+**GPL-3.0 核心要求**：
+- 任何使用本项目代码的衍生作品必须开源
+- 必须保留原作者版权声明
+- 必须使用相同的GPL-3.0许可证
+
+这样可以有效防止有人将开源项目闭源后进行商业倒卖。
 
 ---
 
